@@ -1,3 +1,4 @@
 theme: minima
 title: My Awesome Blog
 description: Thoughts, Ideas, and Stories
+include: ["asset"]
